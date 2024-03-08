@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466737442764",
+    "project_id": "body-21df0",
+    "storage_bucket": "body-21df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466737442764:android:c7bcb11a9652e1ec0e7769",
+        "android_client_info": {
+          "package_name": "com.kaykycastro.Disney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiObJ_A-B3sHCuNjQUY9pYDOlWL6h-Cts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
